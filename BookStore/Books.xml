@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <book isbn="123-875-547-1212" id="0">
+        <author>Marinn</author>
+        <genre>HORROR</genre>
+        <price>12.0</price>
+        <quantity>5</quantity>
+        <title>Morome</title>
+    </book>
+    <book isbn="123-875-547-1254" id="1">
+        <author>Andreea</author>
+        <genre>FICTION</genre>
+        <price>12.0</price>
+        <quantity>7</quantity>
+        <title>Morometi</title>
+    </book>
+    <book isbn="123-875-547-1134" id="2">
+        <author>Ioan Slavici</author>
+        <price>12.0</price>
+        <quantity>0</quantity>
+        <title>Mara</title>
+    </book>
+</books>

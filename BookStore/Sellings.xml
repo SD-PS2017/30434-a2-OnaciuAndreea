@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sellings>
+    <selling>
+        <book isbn="123-875-547-1212" id="0">
+            <author>Marinn</author>
+            <genre>HORROR</genre>
+            <price>12.0</price>
+            <quantity>6</quantity>
+            <title>Morome</title>
+        </book>
+        <d>2017-05-01T21:49:55.739+03:00</d>
+    </selling>
+    <selling>
+        <book isbn="123-875-547-1212" id="0">
+            <author>Marinn</author>
+            <genre>HORROR</genre>
+            <price>12.0</price>
+            <quantity>5</quantity>
+            <title>Morome</title>
+        </book>
+        <d>2017-05-01T21:50:26.445+03:00</d>
+    </selling>
+</sellings>

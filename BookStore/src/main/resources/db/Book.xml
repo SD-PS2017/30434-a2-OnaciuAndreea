@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Book xmlns:tns="http://www.example.org/Book" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Book Book.xsd ">
+  <tns:title>Ion</tns:title>
+  <tns:author>Liviu Rebreanu</tns:author>
+  <tns:genre>
+    <tns:type>fiction</tns:type>
+  </tns:genre>
+  <tns:additionalInformation></tns:additionalInformation>
+  <tns:quantity>50</tns:quantity>
+  <tns:price>12.3</tns:price>
+</tns:Book>
